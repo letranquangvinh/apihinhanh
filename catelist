@@ -4,41 +4,41 @@
     "tieude": "Quá nhanh quá nguy hiểm",
     "theloai": "Hành động",
     "nam": 2019,
-    "poster": "https://upload.wikimedia.org/wikipedia/vi/9/98/Hobbs_and_Shaw_VN_poster.jpg"
+    "poster": "hinh1.JPG"
   },
   {
     "id": 2,
     "tieude": "Bố già",
     "theloai": "Tội phạm, Kịch",
     "nam": 1972,
-    "poster": "https://vcdn1-giaitri.vnecdn.net/2022/03/28/reviewbogia-2073-1631785536-6613-1648435866.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=8NSGADCwojIrPIHk9sAy8Q"
+    "poster": "hinh2.JPG"
   },
   {
     "id": 3,
     "tieude": "Batman: Bóng đêm trỗi dậy",
     "theloai": "Hành động",
     "nam": 2008,
-    "poster": "https://upload.wikimedia.org/wikipedia/vi/8/83/Dark_knight_rises_poster.jpg"
+    "poster": "hinh3.JPG"
   },
   {
-    "id": 3,
+    "id": 4,
     "tieude": "Avatar 2",
     "theloai": "Hành động",
     "nam": 2022,
-    "poster": "https://i1-vnexpress.vnecdn.net/2022/12/15/avatar-the-way-of-water-1671069183.jpg?w=330&h=495&q=100&dpr=1&fit=crop&s=YmqMRdbpi9-enYuczh3XiA"
+    "poster": "hinh4.JPG"
   },
   {
     "id": 4,
     "tieude": "Biệt đội siêu anh hùng: Kết thúc ",
     "theloai": "Hành động, Khoa học viễn tưởng",
     "nam": 2019,
-    "poster": "https://upload.wikimedia.org/wikipedia/vi/2/2d/Avengers_Endgame_bia_teaser.jpg"
+    "poster": "hinh5.JPG"
   },
   {
     "id": 5,
     "tieude": "Báo đen ",
     "theloai": "Hành động",
     "nam": 2018,
-    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg"
+    "poster": "hinh6.JPG"
   }
 ]

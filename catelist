@@ -12,34 +12,34 @@
     "tieude": "Bố già",
     "theloai": "Tội phạm, Kịch",
     "nam": 1972,
-    "poster": "hinh2.JPG"
+    "poster": "https://i1-vnexpress.vnecdn.net/2022/03/17/the-godfather-1647495803.jpg?w=330&h=495&q=100&dpr=1&fit=crop&s=TCzVG9srALYqau5YfoBkpA"
   },
   {
     "id": 3,
     "tieude": "Batman: Bóng đêm trỗi dậy",
     "theloai": "Hành động",
     "nam": 2008,
-    "poster": "hinh3.JPG"
+    "poster": "https://upload.wikimedia.org/wikipedia/vi/8/83/Dark_knight_rises_poster.jpg"
   },
   {
     "id": 4,
     "tieude": "Avatar 2",
     "theloai": "Hành động",
     "nam": 2022,
-    "poster": "hinh4.JPG"
-  },
-  {
-    "id": 4,
-    "tieude": "Biệt đội siêu anh hùng: Kết thúc ",
-    "theloai": "Hành động, Khoa học viễn tưởng",
-    "nam": 2019,
-    "poster": "hinh5.JPG"
+    "poster": "https://znews-photo.zingcdn.me/w660/Uploaded/neg_yslewlx/2023_01_22/avatar_2_reviews_1.jpg"
   },
   {
     "id": 5,
+    "tieude": "Biệt đội siêu anh hùng: Kết thúc ",
+    "theloai": "Hành động, Khoa học viễn tưởng",
+    "nam": 2019,
+    "poster": "https://upload.wikimedia.org/wikipedia/vi/2/2d/Avengers_Endgame_bia_teaser.jpg"
+  },
+  {
+    "id": 6,
     "tieude": "Báo đen ",
     "theloai": "Hành động",
     "nam": 2018,
-    "poster": "hinh6.JPG"
+    "poster": "https://upload.wikimedia.org/wikipedia/vi/3/31/Chi%E1%BA%BFn_binh_b%C3%A1o_%C4%91en_2018.jpg"
   }
 ]

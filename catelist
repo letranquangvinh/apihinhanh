@@ -2,43 +2,42 @@
   {
     "id": 1,
     "tieude": "Quá nhanh quá nguy hiểm",
-    "theloai": "Hành động: Fast and Furious Presents: Hobbs and Shaw là bộ phim hành động xoay quanh cuộc phiêu lưu của Luke Hobbs và Deckard Shaw trong việc ngăn chặn một tên khủng bố sở hữu virus nguy hiểm. Phim có nhiều cảnh hành động và đua xe đầy kịch tính.",
+    "theloai": "Hành động: Fast and Furious Presents: Hobbs and Shaw là  bộ phim hành động xoay quanh Luke Hobbs và Deckard Shaw trong nỗ lực ngăn chặn một tên khủng bố sở hữu virus nguy hiểm. Phim có nhiều cảnh hành động và đua xe đầy kịch tính.",
     "nam": 2019,
     "poster": "https://i.ytimg.com/an/XoHNnaGrerc/b97a3d89-a6d7-46d0-a220-ab82e44015e2_mq.jpg?v=5dc1fb2f"
-    
   },
   {
     "id": 2,
     "tieude": "Bố già",
-    "theloai": "Tội phạm, Kịch: The Godfather là một bộ phim tội phạm Mỹ được phát hành vào năm 1972, được đạo diễn bởi Francis Ford Coppola. Phim kể về gia đình Corleone - một gia đình mafia mạnh nhất ở New York vào thập niên 1940 và 1950. Phim được coi là một trong những tác phẩm điện ảnh kinh điển nhất mọi thời đại, với diễn xuất ấn tượng của Marlon Brando, Al Pacino và James Caan.",
+    "theloai": "Tội phạm, Kịch: The Godfather là một bộ phim tội phạm kinh điển Mỹ năm 1972, kể về gia đình mafia Corleone ở New York vào thập niên 1940 và 1950. Phim có sự tham gia diễn xuất của Marlon Brando, Al Pacino và James Caan.",
     "nam": 1972,
     "poster": "https://cdn.shopify.com/s/files/1/0011/5104/1588/articles/Godfather_Featured_300x300.jpg?v=1597766375"
   },
   {
     "id": 3,
     "tieude": "Batman: Bóng đêm trỗi dậy",
-    "theloai": "Hành động",
-    "nam": 2008,
+    "theloai": "Hành động: Batman: Bóng đêm trỗi dậy là bộ phim siêu anh hùng năm 2012 xoay quanh cuộc chiến giữa Batman và Bane để giải cứu Gotham. Phim có sự tham gia của Christian Bale, Tom Hardy và Anne Hathaway.",
+    "nam": 2012,
     "poster": "https://i.pinimg.com/originals/36/60/58/366058cd421e6a981e50c6f800abbbd0.png"
   },
   {
     "id": 4,
     "tieude": "Avatar 2",
-    "theloai": "Hành động",
+    "theloai": "Hành động: Avatar 2 là bộ phim khoa học viễn tưởng sản xuất năm 2022, tiếp nối thành công của Avatar. Phim tiếp tục khám phá Pandora với sự tham gia của các diễn viên Sam Worthington, Zoe Saldana và Kate Winslet.",
     "nam": 2022,
     "poster": "https://i.ytimg.com/an/GkQJx-e44Rk/17581555138933752717_mq.jpg?v=641c201e"
   },
   {
     "id": 5,
     "tieude": "Biệt đội siêu anh hùng: Kết thúc ",
-    "theloai": "Hành động, Khoa học viễn tưởng",
+    "theloai": "Hành động, Khoa học viễn tưởng: Biệt đội siêu anh hùng: Kết thúc là bộ phim siêu anh hùng năm 2019 kết thúc của Vũ trụ Điện ảnh Marvel, xoay quanh cuộc chiến của Avengers để đánh bại kẻ thù Thanos và cứu vãn vũ trụ. Phim có sự tham gia của nhiều diễn viên nổi tiếng.",
     "nam": 2019,
     "poster": "https://assets1.ignimgs.com/2019/03/14/avengers-endgame-ver2-poster-button-1552573654882.jpg?width=300"
   },
   {
     "id": 6,
     "tieude": "Báo đen ",
-    "theloai": "Hành động, Khoa học viễn tưởng",
+    "theloai": "Hành động, Khoa học viễn tưởng: Báo đen là bộ phim siêu anh hùng Mỹ năm 2018 của Marvel Studios, kể về T'Challa, vua của Wakanda và cuộc chiến chống lại kẻ thù của anh.",
     "nam": 2018,
     "poster": "https://assets-prd.ignimgs.com/2022/10/03/wakanda-forever-poster-button-1664815714839.jpg?width=300"
   }
